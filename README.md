@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivamaditya731/DsaDosee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/shivamaditya731/DsaDosee/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivamaditya731/DsaDosee/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivamaditya731/DsaDosee/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
